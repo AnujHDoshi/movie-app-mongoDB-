@@ -1,7 +1,7 @@
 # Screenshots
 
 ## Movie List
-![Movie List](Screenshots/movieList.png)
+![Movie List](https://github.com/AnujHDoshi/movie-app-mongoDB-/tree/main/ScreenshotsmovieList.png)
 
 ## Add Movie Data
 ![Movie List](Screenshots/addMovie.png)
