@@ -5,10 +5,10 @@
 
 
 ## Add Movie Data
-![Movie List](Screenshots/addMovie.png)
+![Movie List](https://github.com/AnujHDoshi/movie-app-mongoDB-/blob/main/Screenshots/addMovie.PNG)
 
 ## Update Movie Data
-![Movie List](Screenshots/UpdateMovieList.png)
+![Movie List](https://github.com/AnujHDoshi/movie-app-mongoDB-/blob/main/Screenshots/UpdateMovieList.PNG)
 
 ## Delete Movie Data
-![Movie List](Screenshots/DeleteMovie.png)
+![Movie List](https://github.com/AnujHDoshi/movie-app-mongoDB-/blob/main/Screenshots/DeleteMovie.PNG)
